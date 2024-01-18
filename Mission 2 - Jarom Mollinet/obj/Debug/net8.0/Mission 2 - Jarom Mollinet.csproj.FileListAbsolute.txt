@@ -1,0 +1,14 @@
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\obj\Debug\net8.0\Mission 2 - Jarom Mollinet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\obj\Debug\net8.0\Mission 2 - Jarom Mollinet.AssemblyInfoInputs.cache
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\obj\Debug\net8.0\Mission 2 - Jarom Mollinet.AssemblyInfo.cs
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\obj\Debug\net8.0\Mission 2 - Jarom Mollinet.csproj.CoreCompileInputs.cache
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\bin\Debug\net8.0\Mission 2 - Jarom Mollinet.exe
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\bin\Debug\net8.0\Mission 2 - Jarom Mollinet.deps.json
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\bin\Debug\net8.0\Mission 2 - Jarom Mollinet.runtimeconfig.json
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\bin\Debug\net8.0\Mission 2 - Jarom Mollinet.dll
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\bin\Debug\net8.0\Mission 2 - Jarom Mollinet.pdb
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\obj\Debug\net8.0\Mission 2 - Jarom Mollinet.dll
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\obj\Debug\net8.0\refint\Mission 2 - Jarom Mollinet.dll
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\obj\Debug\net8.0\Mission 2 - Jarom Mollinet.pdb
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\obj\Debug\net8.0\Mission 2 - Jarom Mollinet.genruntimeconfig.cache
+C:\Users\jarom\source\repos\Mission 2 - Jarom Mollinet\obj\Debug\net8.0\ref\Mission 2 - Jarom Mollinet.dll
